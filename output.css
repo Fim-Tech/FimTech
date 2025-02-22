@@ -902,9 +902,6 @@
   .min-h-screen {
     min-height: 100vh;
   }
-  .w-1 {
-    width: calc(var(--spacing) * 1);
-  }
   .w-1\/2 {
     width: calc(1/2 * 100%);
   }
@@ -1382,17 +1379,8 @@
   .gap-40 {
     gap: calc(var(--spacing) * 40);
   }
-  .gap-60 {
-    gap: calc(var(--spacing) * 60);
-  }
   .gap-62 {
     gap: calc(var(--spacing) * 62);
-  }
-  .gap-63 {
-    gap: calc(var(--spacing) * 63);
-  }
-  .gap-68 {
-    gap: calc(var(--spacing) * 68);
   }
   .gap-70 {
     gap: calc(var(--spacing) * 70);
